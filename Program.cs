@@ -7,6 +7,7 @@ namespace ATC
         static void Main(string[] args)
         {
             ////
+            ATCompany company = new ATCompany();
         }
     }
 }
